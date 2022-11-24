@@ -1,7 +1,7 @@
 package 코딩테스트;
 import java.util.*;
 import java.util.stream.IntStream;
-public class 배열자르기배열2배만들기삼각형완성조건 {
+public class 코딩테스트2일차 {
 	
 	class Solution {
 	    public int[] solution(int[] numbers, int num1, int num2) {
@@ -88,7 +88,6 @@ public class 배열자르기배열2배만들기삼각형완성조건 {
            if (n % loop == 0) 
               answer++;
         }
-  
         return answer;
     }
 }
